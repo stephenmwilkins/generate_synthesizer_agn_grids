@@ -1,1 +1,1 @@
-blackholes_cloudy_c17.03_log10TBB
+blackholes_cloudy_c17.03_log10TBB_log10Z
